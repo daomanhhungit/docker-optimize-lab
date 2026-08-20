@@ -1,4 +1,5 @@
 # docker-optimize-lab
+<<<<<<< HEAD
 
 Lab thực hành: dùng **Claude Code** (kết nối qua GitHub MCP) để review và tối ưu một repo
 FastAPI có Dockerfile chưa tối ưu + CI cơ bản.
@@ -125,3 +126,6 @@ docker images | grep docker-optimize-lab
 
 Image sau khi tối ưu (multi-stage + slim base + không cài dev deps) thường giảm được đáng kể so
 với image gốc.
+=======
+hihi
+>>>>>>> c4f81ee8fd0a8d7a82e3d09df31c0cf32b559889
